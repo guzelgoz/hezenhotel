@@ -1,0 +1,7 @@
+Flask==0.8
+Flask-Markdown==0.3
+Jinja2==2.6
+Markdown==2.1.1
+PyYAML==3.10
+Werkzeug==0.8.3
+distribute==0.6.24
