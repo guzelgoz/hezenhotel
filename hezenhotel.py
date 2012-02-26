@@ -8,6 +8,7 @@
     :copyright: (c) 2012 by Hakan Guzelgoz.
     :license: BSD, see LICENSE for more details.
 """
+import os
 from flask import Flask, jsonify, render_template, request, abort, g, flash
 from flaskext.markdown import Markdown
 import yaml
